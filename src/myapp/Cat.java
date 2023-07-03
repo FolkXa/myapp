@@ -1,6 +1,6 @@
 package myapp;
 
 public class Cat {
-    public String name;
-    public Long age;
+    private String name;
+    private int age;
 }
